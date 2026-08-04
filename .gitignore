@@ -8,3 +8,7 @@ dist/
 .venv/
 venv/
 .ruff_cache/
+.pytest_cache/
+
+# Default local wiki storage root (WIKI_ROOT) when running wiki_api locally
+/wiki_data/
